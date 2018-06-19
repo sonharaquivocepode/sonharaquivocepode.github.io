@@ -937,7 +937,7 @@
             },
             ".container-slide.container": {
               "width": "100%",
-              "min-height": "100vh",
+              "min-height": "100%",
               "padding": "0"
             },
             ".carousel-item": {
@@ -1212,7 +1212,9 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-success\" href=\"page4.html\" data-toolbar=\"-mbrBtnMove\">Assistir</a> "
               }
             ]
-          }
+          },
+          "_PHPplaceholders": [],
+          "_JSplaceholders": []
         },
         {
           "_styles": {

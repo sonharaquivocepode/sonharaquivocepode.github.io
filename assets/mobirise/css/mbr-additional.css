@@ -1931,7 +1931,7 @@ body {
   color: #767676;
 }
 .cid-qVkTLw6F6u {
-  padding-top: 0px;
+  padding-top: 15px;
   padding-bottom: 30px;
   background-color: #ffffff;
 }
@@ -2014,7 +2014,7 @@ body {
 }
 .cid-qVkTLw6F6u .container-slide.container {
   width: 100%;
-  min-height: 100%;
+  min-height: 50vh;
   padding: 0;
 }
 .cid-qVkTLw6F6u .carousel-item {

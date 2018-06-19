@@ -4500,7 +4500,8 @@ body {
 .cid-qVnAwuwX06 {
   padding-top: 30px;
   padding-bottom: 30px;
-  background-color: #cccccc;
+  background-color: #f7ed4a;
+  background: linear-gradient(45deg, #f7ed4a, #ff7f9f);
 }
 .cid-qVnAwuwX06 .mbr-section-subtitle {
   color: #767676;

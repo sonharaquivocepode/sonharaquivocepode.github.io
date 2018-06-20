@@ -4456,6 +4456,7 @@ body {
   padding-top: 120px;
   padding-bottom: 0px;
   background-color: #cccccc;
+  background: linear-gradient(45deg, #cccccc, #cebfaf);
 }
 .cid-qVnzVwnFiD .mbr-section-subtitle {
   color: #767676;

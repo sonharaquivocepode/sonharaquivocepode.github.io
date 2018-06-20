@@ -3291,6 +3291,31 @@ body {
   height: 40px;
   border-radius: 50%;
 }
+.cid-qVtfU1LLSS {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background: #ffffff;
+  background: linear-gradient(45deg, #ffffff, #149dcc);
+}
+.cid-qVtfU1LLSS .image-block {
+  margin: auto;
+}
+.cid-qVtfU1LLSS .mbr-figure {
+  margin: 0 auto;
+}
+.cid-qVtfU1LLSS figcaption {
+  position: relative;
+}
+.cid-qVtfU1LLSS figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-qVtfU1LLSS .image-block {
+    width: 100% !important;
+  }
+}
 .cid-qVkWL8CY3d {
   padding-top: 60px;
   padding-bottom: 60px;
